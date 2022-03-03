@@ -1,0 +1,5 @@
+language: go
+os: linux
+env:
+    - GO111MODULE = on
+sudo: false
